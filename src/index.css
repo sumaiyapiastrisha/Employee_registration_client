@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.banner {
+  background-image:url('https://i.pinimg.com/736x/06/68/e6/0668e68f5e3c7cc68336067a055eaa95.jpg');
+  background-repeat: no-repeat;
+ height: 100vh;
+  background-size: cover;
+  width: 100%;
+ 
+}
+.banner h1{
+  font-size: 45px;
+}
+.banner p{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.color {
+  background-color: rgb(216, 231, 236);
+}
